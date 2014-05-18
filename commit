@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   .classpath
+#	modified:   pom.xml
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    src/in/freecharge/wordcount/client/FCClient.java
+#	deleted:    src/in/freecharge/wordcount/server/FCHttpServer.java
+#	deleted:    src/in/freecharge/wordcount/server/FCServlet.java
+#	deleted:    src/in/freecharge/wordcount/server/WordCount.java
+#	deleted:    src/net/deepvalue/test2/Test.java
+#	deleted:    src/net/deepvalue/test2/Test2.class
+#	deleted:    src/net/deepvalue/test2/Test2.java
+#	deleted:    src/net/deepvalue/test2/TestUtils$1.class
+#	deleted:    src/net/deepvalue/test2/TestUtils.class
+#	deleted:    src/net/deepvalue/test2/TestUtils.java
+#
